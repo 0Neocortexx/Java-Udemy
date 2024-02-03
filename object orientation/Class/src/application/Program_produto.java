@@ -23,6 +23,7 @@ public class Program_produto {
 		
 		/* Quando criado um método toString no arquivo da classe
 		 * quando houver um print com a classe, ele retornara o toString*/
+		
 		System.out.println();
 		System.out.println("Product data: " + product);
 		
